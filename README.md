@@ -1,0 +1,1 @@
+A new version of the Chapter 5 problem where the program also records all of the user's guesses and prints them out once they guess correctly. Uses an ArrayList to store the guesses.
